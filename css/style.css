@@ -8,6 +8,6 @@ div{
     border: 3px solid green;
     padding: 10px;
   }
-  h2,p,li{
+  h2,p,ul{
       text-align: center;
   }
