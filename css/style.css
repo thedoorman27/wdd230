@@ -10,4 +10,5 @@ div{
   }
   h2,p,ul{
       text-align: center;
+      list-style-position: inside;
   }
